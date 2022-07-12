@@ -9,3 +9,7 @@ Tools & Libraries: OpenCV haarcascade
 IDE: Google Colab
 Back End: Python
 Prerequisites: Python, Deep Learning, Machine Learning
+
+Testing image:
+<img src="https://github.com/ananya-agarwal/Facial-Emotion-Recognition/blob/main/testing.png" width=384>
+<br>
